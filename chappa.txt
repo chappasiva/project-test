@@ -1,0 +1,12 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is EA79-FF52
+
+ Directory of E:\GIT-Project
+
+19-04-2021  15:40    <DIR>          .
+19-04-2021  15:40    <DIR>          ..
+19-04-2021  15:40                 0 test.tat
+               1 File(s)              0 bytes
+               2 Dir(s)  308,906,704,896 bytes free
+
+chappa chappa chappa chappa chappa
